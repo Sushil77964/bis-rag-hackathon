@@ -1,0 +1,44 @@
+[
+  {
+    "query": "cement for building",
+    "retrieved_standards": [
+      "IS 456",
+      "IS 800",
+      "IS 875"
+    ],
+    "rationale": [
+      "Concrete design standard",
+      "Steel structure standard",
+      "Load calculation standard"
+    ],
+    "latency_seconds": 0.0
+  },
+  {
+    "query": "steel reinforcement bars",
+    "retrieved_standards": [
+      "IS 456",
+      "IS 800",
+      "IS 875"
+    ],
+    "rationale": [
+      "Concrete design standard",
+      "Steel structure standard",
+      "Load calculation standard"
+    ],
+    "latency_seconds": 0.0
+  },
+  {
+    "query": "aggregates used in concrete",
+    "retrieved_standards": [
+      "IS 456",
+      "IS 800",
+      "IS 875"
+    ],
+    "rationale": [
+      "Concrete design standard",
+      "Steel structure standard",
+      "Load calculation standard"
+    ],
+    "latency_seconds": 0.0
+  }
+]
