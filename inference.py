@@ -46,5 +46,6 @@ if __name__ == "__main__":
 
     with open(output_file, "w") as f:
         json.dump(results, f, indent=2)
+        print(json.dumps(results, indent=2))
 
     print("✅ Output generated")
